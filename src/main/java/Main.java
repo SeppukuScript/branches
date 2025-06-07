@@ -8,4 +8,6 @@ public class Main {
 
 		System.out.println("Hello world!");
 	}
+
+	// This just test commit
 }
