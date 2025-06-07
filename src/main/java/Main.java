@@ -1,19 +1,10 @@
 public class Main {
 
-	void sum(int a, int b) {
-		int result = a + b;
-	}
-
-	void multi(int a, int b) {
-		int result = a * b;
-	}
-
-	void dev(int a, int b) {
-		int result = a / b;
-	}
-
 	public static void main(String[] args) {
 
 		System.out.println("Hello world!");
 	}
 }
+
+// new commit
+
